@@ -1,8 +1,7 @@
 package com.bakerbeach.market.core.service.shipping.deliverytime;
 
-import com.bakerbeach.market.catalog.service.DeliveryTimeService;
-
-public class DeliveryTimeServiceImpl implements DeliveryTimeService {
+public class DeliveryTimeServiceImpl  {
+//public class DeliveryTimeServiceImpl implements DeliveryTimeService {
 
 	private String leadingLocation = "USTER";
 	private Integer continuesBackorderTime = 4;
