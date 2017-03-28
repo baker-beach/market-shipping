@@ -30,4 +30,11 @@ public class ShippingServiceImpl implements ShippingService {
 		return false;
 	}
 
+	@Override
+	public Boolean checkShippingContext(ShopContext shopContext, Customer customer, Cart cart,
+			ShippingContext shippingContext) throws ShippingServiceException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
