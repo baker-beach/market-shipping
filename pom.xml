@@ -16,12 +16,12 @@
 		<dependency>
             <groupId>com.bakerbeach.market</groupId>
 			<artifactId>market-shipping-api</artifactId>
-            <version>[3.0.1]</version>
+            <version>[3.1.0]</version>
 		</dependency>		
 		<dependency>
             <groupId>com.bakerbeach.market</groupId>
 			<artifactId>market-catalog-api</artifactId>
-            <version>[3.0.0,3.1.0)</version>
+            <version>[3.1.0,3.2.0)</version>
 		</dependency>		
 		<dependency>
 			<groupId>de.jollyday</groupId>
@@ -41,5 +41,5 @@
         <plugins>
         </plugins>
     </build>
-	<version>3.0.1</version>
+	<version>3.1.0</version>
 </project>
